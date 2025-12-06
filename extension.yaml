@@ -1,8 +1,8 @@
 ﻿Id: AutoCategories
-Name: AutoCategories
+Name: QuickPlatformCategories
 Author: roob-p
-Version: 1.0.2
-Module: AutoCategories.psm1
+Version: 1.0.3
+Module: QuickPlatformCategories.psm1
 Type: Script
 Icon: icon.jpg
 Links:
@@ -12,5 +12,6 @@ Links:
       Url: https://ko-fi.com/roobp		
    
       
+
 
      
