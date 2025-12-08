@@ -27,7 +27,6 @@ This extension automatically assigns each game to categories based on its platfo
 - Existing categories will not be deleted and the new category will be added to them.
 - If a game has multiple platforms checked in Playnite, only the first platform will be considered for adding/creating the category.
 - In Platforms.txt and Source.txt there are already some platforms and sources. You can edit these two files without having to reload the extension.  
-- In future I'll add the possibility to specify and add more categories per platform (for example: Nintendo Game Boy Color -> Nintendo Game Boy; Nintendo Game Boy Color).
 
 
 If you enjoy the extension, you can buy me a coffee. It will be very appreciated ;)
