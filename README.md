@@ -17,16 +17,16 @@ This extension automatically assigns each game to categories based on its platfo
   - works perfectly with grid view
   - makes switching between platform-based categories and thematic ones (e.g. “Horror”) immediate.  
   
-  This is especially useful if you use emulators or have a mixed-platform collection.
+  **This is especially useful if you use emulators or have a mixed-platform collection.**
 
 ### ⚙️ How it works:
 
-- In Platforms.txt you can specify short game's platform names for the categories (for example: Nintendo Entertainment System -> Nintendo NES, Sony Playstation 2 -> Sony PS2, etc).
-- You can also add sources like Ea App, Ubisoft Connect and add short names (like Origin, Uplay) or whatever you want.   
-- If there's no category for an imported game's platform/source, a new category with platform/source's name will be created.
-- Existing categories will not be deleted and the new category will be added to them.
-- If a game has multiple platforms checked in Playnite, only the first platform will be considered for adding/creating the category.
-- In Platforms.txt and Source.txt there are already some platforms and sources. You can edit these two files without having to reload the extension.  
+- The extension assigns categories to each selected game based on its platform and source, using the definitions in `Platforms.txt` and `Source.txt`.
+- You can define short, user-friendly names for platforms (e.g. Nintendo Entertainment System → NES) and sources (e.g. EA App → Origin).
+- If a category for a platform or source is not defined, it will be created with the platform/source name.
+- Existing categories are never deleted.
+- Games with multiple platforms will only be assigned to the first platform listed in Playnite.
+- `Platforms.txt` and `Source.txt` can be edited at any time. No need to reload the extension.
 
 
 If you enjoy the extension, you can buy me a coffee. It will be very appreciated ;)
