@@ -5,7 +5,7 @@ function GetGameMenuItems
 	)
 
     $menuItem = New-Object Playnite.SDK.Plugins.ScriptGameMenuItem
-    $menuItem.Description = "AutoCategories"
+    $menuItem.Description = "QuickPlatformCategories"
     $menuItem.FunctionName = "vai"
 	$menuItem.Icon = "$PSScriptRoot"+"\icon.jpg"
 	
@@ -20,10 +20,10 @@ function GetMainMenuItems
 	)
 
     $menuItem = New-Object Playnite.SDK.Plugins.ScriptMainMenuItem
-    $menuItem.Description = "AutoCategories"
+    $menuItem.Description = "QuickPlatformCategories"
     $menuItem.FunctionName = "vai"
 	$menuItem.Icon = "$PSScriptRoot"+"\icon.jpg"
-	#$menuItem.MenuSection = "@AutoCategories"
+	#$menuItem.MenuSection = "@QuickPlatformCategories"
 	
     return $menuItem
 }
@@ -201,3 +201,4 @@ $PlayniteApi.Dialogs.ShowMessage($output)
 
 
 } #end func
+
