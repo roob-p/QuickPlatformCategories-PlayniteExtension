@@ -5,22 +5,19 @@ Perfect for large libraries, emulator setups, and mixed platforms.
 This extension automatically assigns each game to categories based on its platform or source, including short user-defined names (e.g. Sony PlayStation 2 → PS2) making it easy to keep your library organized—especially after importing new games.
  
 ### ➡️ Why this extension exists:
-Switching between platforms in Playnite can be slow and inconvenient, especially if you use emulators or have a mixed-platform collection. 
-
-This extension makes it easy to filter games across different platforms in a much more intuitive and responsive way compared to Playnite's built-in "Platform" and "Library" filters, by addressing issues such as:
-  - The sidebar must stay open
-  - Platform panel is small and requires scrolling
-  - Changing from one system (e.g. Amiga) to another (e.g. PS2) takes several clicks
-  - Having many platforms results in a long list
-  
-Using categories instead:
-    
+- It allows you to quickly filter games across different platforms in a much more intuitive and responsive way compared to Playnite's built-in "Platform" and "Library" filters, which can be slow and uncomfortable considering:
+  - the sidebar must stay open
+  - platform panel is small and require scrolling
+  - changing from one system (e.g. Amiga) to another (e.g. PS2) takes several clicks
+  - having many platforms results in a long list
+- Using categories instead:
   - is faster
   - is more visible
   - requires fewer clicks
   - works perfectly with grid view
   - makes switching between platform-based categories and thematic ones (e.g. “Horror”) immediate.  
   
+  **This is especially useful if you use emulators or have a mixed-platform collection.**
 
 ### ⚙️ How it works:
 
@@ -46,7 +43,3 @@ If you enjoy the extension, you can buy me a coffee. It will be very appreciated
 ![](https://github.com/roob-p/AutoCategories-PlayniteExtension/blob/main/media/1.gif)
 ![](https://github.com/roob-p/AutoCategories-PlayniteExtension/blob/main/media/3.gif)
 ![](https://github.com/roob-p/AutoCategories-PlayniteExtension/blob/main/media/2.gif)
-
-
-
-
