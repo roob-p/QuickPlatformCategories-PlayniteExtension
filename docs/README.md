@@ -36,7 +36,7 @@ If you enjoy the extension, you can buy me a coffee. It will be very appreciated
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/E1E214R1KB)
 
 - Install directly:
-  [QuickPlatformCategories](https://playnite.link/addons.html#QuickPlatformCategories)
+  [QuickPlatformCategories](https://playnite.link/addons.html#AutoCategories)
 - Download last version:
 [v1.0.3](https://github.com/roob-p/QuickPlatformCategories-PlayniteExtension/releases/download/v1.0.3/QuickPlatformCategories_v1.0.3.pext)
 
