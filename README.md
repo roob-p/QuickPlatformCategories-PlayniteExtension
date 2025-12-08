@@ -9,7 +9,7 @@ This extension automatically assigns each game to categories based on its platfo
   - the sidebar must stay open
   - platform panel is small and require scrolling
   - changing from one system (e.g. Amiga) to another (e.g. PS2) takes several clicks
-  - lots of platforms = big list
+  - having many platforms results in a long list
 - Using categories instead:
   - is faster
   - is more visible
