@@ -25,7 +25,7 @@ If you enjoy the extension, you can buy me a coffee. It will be very appreciated
 - Install directly:
   [QuickPlatformCategories](https://playnite.link/addons.html#AutoCategories)
 - Download last version:
-[v1.0.2](https://github.com/roob-p/AutoCategories-PlayniteExtension/releases/download/v1.0.2/Autocategories_v1.0.2.pext)
+[v1.0.3](https://github.com/roob-p/AutoCategories-PlayniteExtension/releases/download/v1.0.3/Autocategories_v1.0.3.pext)
 
 
 
