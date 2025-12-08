@@ -1,4 +1,5 @@
 gifs/* export-ignore
+gifs/ export-ignore
 docs/ export-ignore
 media/ export-ignore
 .github/ export-ignore
