@@ -4,7 +4,7 @@ Perfect for large libraries, emulator setups, and mixed platforms.
 
 This extension automatically assigns each game to categories based on its platform or source, including short user-defined names (e.g. Sony PlayStation 2 → PS2) making it easy to keep your library organized—especially after importing new games.
  
-### ➡️ Why this extension exists?
+### ➡️ Why this extension exists?:
 - It allows you to quickly filter games across different platforms in a much more intuitive and responsive way compared to Playnite's built-in "Platform" and "Library" filters, which can be slow and uncomfortable considering:
   - the sidebar must stay open
   - platform panel is small and require scrolling
