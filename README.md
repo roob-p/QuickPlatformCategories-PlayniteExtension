@@ -21,7 +21,6 @@ Using categories instead:
   - works perfectly with grid view
   - makes switching between platform-based categories and thematic ones (e.g. “Horror”) immediate.  
   
-  **This is especially useful if you use emulators or have a mixed-platform collection.**
 
 ### ⚙️ How it works:
 
