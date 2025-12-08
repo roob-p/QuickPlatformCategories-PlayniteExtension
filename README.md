@@ -1,11 +1,24 @@
 # 🧩 Quick Platform Categories (Playnite Extension)
-✨ Automatically organize your Playnite library with custom platform/source categories. Ideal for emulator users and large collections.
+✨ Automatically create and assign platform/source categories to your games for faster filtering in Playnite.
+Perfect for large libraries, emulator setups, and mixed platforms.
 
-This extension will automatically add, create and apply "platform/source" categories to your games, making it easy to organize your library especially after importing new games. 
+This extension automatically assigns each game to categories based on its platform or source, including short user-defined names (e.g. Sony PlayStation 2 → PS2) making it easy to keep your library organized—especially after importing new games.
  
 ### ➡️ Why use it?
 It allows you to quickly filter games across different platforms in a much more intuitive and responsive way compared to Playnite's built-in "Platform" and "Library" filters.
 This is especially useful if you use emulators or have a mixed-platform collection.
+
+- Switching between platforms in Playnite can be slow and tedious:
+  - the sidebar must stay open
+  - platform panel is small and require scrolling
+  - changing from one system (e.g. Amiga) to another (e.g. PS2) takes several clicks
+  - lots of platforms = big list
+- Using categories instead:
+  - is faster
+  - is more visible
+  - requires fewer clicks
+  - works perfectly with grid view
+  - makes switching between platform-based categories and thematic ones (e.g. “Horror”) immediate
 
 ### ⚙️ How it works:
 
