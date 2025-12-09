@@ -17,7 +17,7 @@ This extension automatically assigns each game to categories based on its platfo
   - is more visible
   - requires fewer clicks
   - works perfectly with grid view
-  - makes switching between platform-based categories and thematic ones (e.g. “Horror”) immediate.  
+  - makes switching between platform-based categories and thematic ones (e.g. “Horror”) immediate  
   
   **This is especially useful if you use emulators or have a mixed-platform collection.**
 
