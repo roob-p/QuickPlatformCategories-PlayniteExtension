@@ -6,7 +6,7 @@ This extension automatically assigns each game to categories based on its platfo
  
 ### ➡️ Why use it:
 - It allows you to quickly filter games across different platforms in a much more intuitive and responsive way compared to Playnite's built-in "Platform" and "Library" filters, which can be slow and uncomfortable considering that:
-  - the sidebar must stay open
+  - the Playnite sidebar must stay open
   - platform panel is small and requires scrolling
   - changing from one system (e.g. Amiga) to another (e.g. PS2) takes several clicks
   - having many platforms results in a long list
