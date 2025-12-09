@@ -23,7 +23,7 @@ This extension automatically assigns each game to categories based on its platfo
 
 ### ⚙️ How it works:
 
-- The extension assigns categories to each selected game based on its platform and source, using the definitions in `Platforms.txt` and `Source.txt`.
+- The extension reads `Platforms.txt` and `Source.txt` and applies the defined categories to the selected games.
 - You can define short, user-friendly names for platforms (e.g. Nintendo Entertainment System → NES) and sources (e.g. EA App → Origin).
 - If a category for a platform or source is not defined, it will be created with the platform/source name.
 - Existing categories are never deleted.
@@ -45,7 +45,6 @@ If you enjoy the extension, you can buy me a coffee. It will be very appreciated
 ![](https://github.com/roob-p/QuickPlatformCategories-PlayniteExtension/blob/main/media/1.gif)
 ![](https://github.com/roob-p/QuickPlatformCategories-PlayniteExtension/blob/main/media/3.gif)
 ![](https://github.com/roob-p/QuickPlatformCategories-PlayniteExtension/blob/main/media/2.gif)
-
 
 
 
