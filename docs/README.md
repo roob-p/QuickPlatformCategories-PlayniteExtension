@@ -1,5 +1,5 @@
 <!--[![🔙 Back](https://img.shields.io/badge/🔙-Back-blue)](https://roob-p.github.io)--> 
-[![🔙 Back](https://img.shields.io/badge/🔙-Back-white?style=flat-square&logoColor=blue&color=blue)](https://roob-p.github.io)
+[![🔙 Back](https://img.shields.io/badge/🔙-Back-white?style=flat-square&logoColor=blue&color=blue)](https://roob-p.github.io) 
 # 🧩 Quick Platform Categories (Playnite Extension)
 ✨ *Automatically create and assign platform/source categories to your games for faster filtering in Playnite.
 Perfect for large libraries, emulator setups, and mixed platforms.*
