@@ -79,18 +79,41 @@ if (!$game.source.name) {  # Se la sorgente è vuota
         if ($nomibrevi.ContainsKey($catName)) { #Se la categoria esiste già aggiunge il gioco alla categoria, altrimenti crea una nuova categoria col nome della piattaforma.
             $nomibrevi[$catName] | ForEach-Object {
                 $category = $PlayniteApi.Database.Categories.Add($_)
-                if ($gameI.CategoryIds -eq $null -or !$gameI.CategoryIds.Contains($category.Id)) {
-                    $gameI.CategoryIds += $category.Id
-                }
+                
+				#if ($gameI.CategoryIds -eq $null -or !$gameI.CategoryIds.Contains($category.Id)) {
+                #    $gameI.CategoryIds += $category.Id
+                #}
+				
+				#
+				if ($gameI.CategoryIds -eq $null) {
+				$gameI.CategoryIds = New-Object System.Collections.Generic.List[Guid]
+				}
+
+				if (!$gameI.CategoryIds.Contains($category.Id)) {
+				$gameI.CategoryIds.Add($category.Id)
+				}
+				#
+				
                 $PlayniteApi.Database.Games.Update($gameI)
                 $arrgame += $game.name
                 $arrcat += $category.name
             }
         } else {
             $category = $PlayniteApi.Database.Categories.Add($catName)
-            if ($gameI.CategoryIds -eq $null -or !$gameI.CategoryIds.Contains($category.Id)) {
-                $gameI.CategoryIds += $category.Id
-            }
+            #if ($gameI.CategoryIds -eq $null -or !$gameI.CategoryIds.Contains($category.Id)) {
+            #    $gameI.CategoryIds += $category.Id
+            #}
+			
+			#
+			if ($gameI.CategoryIds -eq $null) {
+			$gameI.CategoryIds = New-Object System.Collections.Generic.List[Guid]
+			}
+
+			if (!$gameI.CategoryIds.Contains($category.Id)) {
+			$gameI.CategoryIds.Add($category.Id)
+			}
+			#
+			
             $PlayniteApi.Database.Games.Update($gameI)
             $arrgame += $game.name
             $arrcat += $category.name
@@ -113,9 +136,20 @@ if (!$game.source.name) {  # Se la sorgente è vuota
         $category = $PlayniteApi.Database.Categories.Add($sou)
     }
 
-    if ($gameI.CategoryIds -eq $null -or !$gameI.CategoryIds.Contains($category.Id)) {
-        $gameI.CategoryIds += $category.Id
-    }
+    #if ($gameI.CategoryIds -eq $null -or !$gameI.CategoryIds.Contains($category.Id)) {
+    #    $gameI.CategoryIds += $category.Id
+    #}
+	
+	#
+	if ($gameI.CategoryIds -eq $null) {
+    $gameI.CategoryIds = New-Object System.Collections.Generic.List[Guid]
+	}
+
+	if (!$gameI.CategoryIds.Contains($category.Id)) {
+    $gameI.CategoryIds.Add($category.Id)
+	}
+	#
+	
     $PlayniteApi.Database.Games.Update($gameI)
     $arrgame += $game.name
     $arrcat += $category.name
@@ -201,5 +235,3 @@ $PlayniteApi.Dialogs.ShowMessage($output)
 
 
 } #end func
-
-
