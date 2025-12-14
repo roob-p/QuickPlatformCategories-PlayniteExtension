@@ -42,8 +42,8 @@ If you enjoy the extension, you can buy me a coffee. It will be very appreciated
 [v1.0.3](https://github.com/roob-p/QuickPlatformCategories-PlayniteExtension/releases/download/v1.0.3/QuickPlatformCategories_v1.0.3.pext)
 
 
-![](https://raw.githubusercontent.com/roob-p/QuickPlatformCategories-PlayniteExtension/blob/main/media/1.gif)
-![](https://raw.githubusercontent.com/roob-p/QuickPlatformCategories-PlayniteExtension/blob/main/media/3.gif)
-![](https://raw.githubusercontent.com/roob-p/QuickPlatformCategories-PlayniteExtension/blob/main/media/2.gif)
+![](https://raw.githubusercontent.com/roob-p/QuickPlatformCategories-PlayniteExtension/main/media/1.gif)
+![](https://raw.githubusercontent.com/roob-p/QuickPlatformCategories-PlayniteExtension/main/media/3.gif)
+![](https://raw.githubusercontent.com/roob-p/QuickPlatformCategories-PlayniteExtension/main/media/2.gif)
 
 
