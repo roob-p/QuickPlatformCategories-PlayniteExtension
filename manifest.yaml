@@ -19,3 +19,12 @@ Packages:
     Changelog:
       - Added support for defining multiple categories for a single platform (e.g. Nintendo Game Boy Color → Nintendo Game Boy; Nintendo Game Boy Color; Nintendo GBC).
       - Extension name changed to QuickPlatformCategories.
+  - Version: 1.0.4
+    RequiredApiVersion: 6.0.0
+    ReleaseDate: 2025-12-14
+    PackageUrl: https://github.com/roob-p/QuickPlatformCategories-PlayniteExtension/releases/download/v1.0.4/QuickPlatformCategories_v1.0.4.pext
+    Changelog:
+      - Fixed a bug introduced in the previous release that caused a crash for games with no previously assigned categories.
+
+
+
