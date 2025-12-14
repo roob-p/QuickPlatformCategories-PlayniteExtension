@@ -5,3 +5,4 @@ media/ export-ignore
 .github/ export-ignore
 manifest.yaml export-ignore
 *.pext export-ignore
+*.html export-ignore
