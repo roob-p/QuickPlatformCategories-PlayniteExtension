@@ -1,4 +1,4 @@
-# 🧩 Quick Platform Categories (Playnite Extension)
+# 🏷️ Quick Platform Categories (Playnite Extension)
 ✨ *Automatically create and assign platform/source categories to your games for faster filtering in Playnite.
 Perfect for large libraries, emulator setups, and mixed platforms.*
 
