@@ -37,10 +37,10 @@ If you enjoy the extension, you can buy me a coffee. It will be very appreciated
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/E1E214R1KB)
 
-- Github repo: 🐙 [roob-p/QuickPlatformCategories-PlayniteExtension](https://github.com/roob-p/QuickPlatformCategories-PlayniteExtension)
-- Install directly:
+- 🐙 Github repo: [roob-p/QuickPlatformCategories-PlayniteExtension](https://github.com/roob-p/QuickPlatformCategories-PlayniteExtension)
+- 🧩 Install directly:
   [QuickPlatformCategories](https://playnite.link/addons.html#AutoCategories)
-- Download last version:
+- 📥 Download last version:
 [v1.0.4](https://github.com/roob-p/QuickPlatformCategories-PlayniteExtension/releases/download/v1.0.4/QuickPlatformCategories_v1.0.4.pext)
 
 ![](https://raw.githubusercontent.com/roob-p/QuickPlatformCategories-PlayniteExtension/main/media/0.gif)
